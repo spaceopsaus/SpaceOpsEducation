@@ -4,14 +4,14 @@ The second sensing module is a fun little package of environmental sensing which
 From our previous three lessons, we have worked to combine these three sensors into a neat little board that provides easy plug and play into the carrier board.
 
 See the [online tutorial](https://spaceops.com.au/education/sensor-module-2-tutorial) for detailed instructions.
-![sensor_module_2](https://github.com/stuarteiffert/SpaceOps/picosat_sensor_module2/images/SM2_04.jpg "Sensor Module 2")
+![sensor_module_2](https://github.com/spaceopsaus/SpaceOpsEducation/blob/master/picosat_sensor_module2/images/SM2_04.jpg "Sensor Module 2")
 
 This tutorial is designed for use with either one or multiple picosat sensing modules. The relevant examples are included in each directory and include:
-1. Single Device
-..* Compass
-..* G Forces
-2. Multiple Devices
-..* Remote Sensing
+* Single Device
+  * Compass
+  * G Forces
+* Multiple Devices
+  * Remote Sensing
 
 ## Instructions:
 Projects can either be directly copied to microbits by copying the relevant .hex file to the device after plugging it into a computer via the microUSB cable, or code can be flashed to devices via the [browser based application](https://makecode.microbit.org/), as below:

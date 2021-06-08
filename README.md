@@ -6,8 +6,6 @@ These tutorials currently include:
 
 Instructions for each tutorial are located within the project's directory
 
-'example projects with the SpaceOps Sensor Module 2 and micro:bit 
-
 
 ## Instructions:
 Projects can either be directly copied to microbits by copying the relevant .hex file to the device after plugging it into a computer via the microUSB cable, or code can be flashed to devices via the browser based application, as below:
